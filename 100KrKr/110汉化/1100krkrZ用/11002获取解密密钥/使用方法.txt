@@ -1,0 +1,6 @@
+pip install frida-tools
+
+frida -l krkr_hxv4_dumpkey.js -f 游戏.exe --output dumpkey.txt
+
+
+
